@@ -1,0 +1,4 @@
+Log file is opened successfully
+4.6.0 NVIDIA 390.77
+4.60 NVIDIA
+Log file is successfully closed

@@ -1,0 +1,5 @@
+Log File is Created successfully..
+4.3.0 - Build 10.18.15.4248
+Intel(R) HD Graphics 4400
+4.30 - Build 10.18.15.4248
+Log File is closed successfully
