@@ -1,0 +1,52 @@
+Program is started Successfully
+OpneGL version : 4.1 INTEL-10.32.48
+GLSL Version   : 4.10
+cubeVCNT[0].vertex[0] : 1.000000 	cubeVCNT[0].vertex[1] : 1.000000 	cubeVCNT[0].vertex[2] : 1.000000 	cubeVCNT[0].color[0] : 1.000000 	cubeVCNT[0].color[1] : 0.000000 	cubeVCNT[0].color[2] : 0.000000 	cubeVCNT[0].normal[0] : 0.000000 	cubeVCNT[0].normal[1] : 0.000000 	cubeVCNT[0].normal[2] : 1.000000 	cubeVCNT[0].texture[0] : 1.000000 
+cubeVCNT[0].texture[1] : 0.000000 
+cubeVCNT[1].vertex[0] : -1.000000 	cubeVCNT[1].vertex[1] : 1.000000 	cubeVCNT[1].vertex[2] : 1.000000 	cubeVCNT[1].color[0] : 1.000000 	cubeVCNT[1].color[1] : 0.000000 	cubeVCNT[1].color[2] : 0.000000 	cubeVCNT[1].normal[0] : 0.000000 	cubeVCNT[1].normal[1] : 0.000000 	cubeVCNT[1].normal[2] : 1.000000 	cubeVCNT[1].texture[0] : 0.000000 
+cubeVCNT[1].texture[1] : 0.000000 
+cubeVCNT[2].vertex[0] : -1.000000 	cubeVCNT[2].vertex[1] : -1.000000 	cubeVCNT[2].vertex[2] : 1.000000 	cubeVCNT[2].color[0] : 1.000000 	cubeVCNT[2].color[1] : 0.000000 	cubeVCNT[2].color[2] : 0.000000 	cubeVCNT[2].normal[0] : 0.000000 	cubeVCNT[2].normal[1] : 0.000000 	cubeVCNT[2].normal[2] : 1.000000 	cubeVCNT[2].texture[0] : 0.000000 
+cubeVCNT[2].texture[1] : 1.000000 
+cubeVCNT[3].vertex[0] : 1.000000 	cubeVCNT[3].vertex[1] : -1.000000 	cubeVCNT[3].vertex[2] : 1.000000 	cubeVCNT[3].color[0] : 1.000000 	cubeVCNT[3].color[1] : 0.000000 	cubeVCNT[3].color[2] : 0.000000 	cubeVCNT[3].normal[0] : 0.000000 	cubeVCNT[3].normal[1] : 0.000000 	cubeVCNT[3].normal[2] : 1.000000 	cubeVCNT[3].texture[0] : 1.000000 
+cubeVCNT[3].texture[1] : 1.000000 
+cubeVCNT[4].vertex[0] : 1.000000 	cubeVCNT[4].vertex[1] : 1.000000 	cubeVCNT[4].vertex[2] : -1.000000 	cubeVCNT[4].color[0] : 1.000000 	cubeVCNT[4].color[1] : 1.000000 	cubeVCNT[4].color[2] : 0.000000 	cubeVCNT[4].normal[0] : 1.000000 	cubeVCNT[4].normal[1] : 0.000000 	cubeVCNT[4].normal[2] : 0.000000 	cubeVCNT[4].texture[0] : 1.000000 
+cubeVCNT[4].texture[1] : 0.000000 
+cubeVCNT[5].vertex[0] : 1.000000 	cubeVCNT[5].vertex[1] : 1.000000 	cubeVCNT[5].vertex[2] : 1.000000 	cubeVCNT[5].color[0] : 1.000000 	cubeVCNT[5].color[1] : 1.000000 	cubeVCNT[5].color[2] : 0.000000 	cubeVCNT[5].normal[0] : 1.000000 	cubeVCNT[5].normal[1] : 0.000000 	cubeVCNT[5].normal[2] : 0.000000 	cubeVCNT[5].texture[0] : 0.000000 
+cubeVCNT[5].texture[1] : 0.000000 
+cubeVCNT[6].vertex[0] : 1.000000 	cubeVCNT[6].vertex[1] : -1.000000 	cubeVCNT[6].vertex[2] : 1.000000 	cubeVCNT[6].color[0] : 1.000000 	cubeVCNT[6].color[1] : 1.000000 	cubeVCNT[6].color[2] : 0.000000 	cubeVCNT[6].normal[0] : 1.000000 	cubeVCNT[6].normal[1] : 0.000000 	cubeVCNT[6].normal[2] : 0.000000 	cubeVCNT[6].texture[0] : 0.000000 
+cubeVCNT[6].texture[1] : 1.000000 
+cubeVCNT[7].vertex[0] : 1.000000 	cubeVCNT[7].vertex[1] : -1.000000 	cubeVCNT[7].vertex[2] : -1.000000 	cubeVCNT[7].color[0] : 1.000000 	cubeVCNT[7].color[1] : 1.000000 	cubeVCNT[7].color[2] : 0.000000 	cubeVCNT[7].normal[0] : 1.000000 	cubeVCNT[7].normal[1] : 0.000000 	cubeVCNT[7].normal[2] : 0.000000 	cubeVCNT[7].texture[0] : 1.000000 
+cubeVCNT[7].texture[1] : 1.000000 
+cubeVCNT[8].vertex[0] : -1.000000 	cubeVCNT[8].vertex[1] : 1.000000 	cubeVCNT[8].vertex[2] : -1.000000 	cubeVCNT[8].color[0] : 1.000000 	cubeVCNT[8].color[1] : 0.000000 	cubeVCNT[8].color[2] : 1.000000 	cubeVCNT[8].normal[0] : 0.000000 	cubeVCNT[8].normal[1] : 0.000000 	cubeVCNT[8].normal[2] : -1.000000 	cubeVCNT[8].texture[0] : 1.000000 
+cubeVCNT[8].texture[1] : 0.000000 
+cubeVCNT[9].vertex[0] : 1.000000 	cubeVCNT[9].vertex[1] : 1.000000 	cubeVCNT[9].vertex[2] : -1.000000 	cubeVCNT[9].color[0] : 1.000000 	cubeVCNT[9].color[1] : 0.000000 	cubeVCNT[9].color[2] : 1.000000 	cubeVCNT[9].normal[0] : 0.000000 	cubeVCNT[9].normal[1] : 0.000000 	cubeVCNT[9].normal[2] : -1.000000 	cubeVCNT[9].texture[0] : 0.000000 
+cubeVCNT[9].texture[1] : 0.000000 
+cubeVCNT[10].vertex[0] : 1.000000 	cubeVCNT[10].vertex[1] : -1.000000 	cubeVCNT[10].vertex[2] : -1.000000 	cubeVCNT[10].color[0] : 1.000000 	cubeVCNT[10].color[1] : 0.000000 	cubeVCNT[10].color[2] : 1.000000 	cubeVCNT[10].normal[0] : 0.000000 	cubeVCNT[10].normal[1] : 0.000000 	cubeVCNT[10].normal[2] : -1.000000 	cubeVCNT[10].texture[0] : 0.000000 
+cubeVCNT[10].texture[1] : 1.000000 
+cubeVCNT[11].vertex[0] : -1.000000 	cubeVCNT[11].vertex[1] : -1.000000 	cubeVCNT[11].vertex[2] : -1.000000 	cubeVCNT[11].color[0] : 1.000000 	cubeVCNT[11].color[1] : 0.000000 	cubeVCNT[11].color[2] : 1.000000 	cubeVCNT[11].normal[0] : 0.000000 	cubeVCNT[11].normal[1] : 0.000000 	cubeVCNT[11].normal[2] : -1.000000 	cubeVCNT[11].texture[0] : 1.000000 
+cubeVCNT[11].texture[1] : 1.000000 
+cubeVCNT[12].vertex[0] : -1.000000 	cubeVCNT[12].vertex[1] : 1.000000 	cubeVCNT[12].vertex[2] : 1.000000 	cubeVCNT[12].color[0] : 0.000000 	cubeVCNT[12].color[1] : 1.000000 	cubeVCNT[12].color[2] : 0.000000 	cubeVCNT[12].normal[0] : -1.000000 	cubeVCNT[12].normal[1] : 0.000000 	cubeVCNT[12].normal[2] : 0.000000 	cubeVCNT[12].texture[0] : 1.000000 
+cubeVCNT[12].texture[1] : 0.000000 
+cubeVCNT[13].vertex[0] : -1.000000 	cubeVCNT[13].vertex[1] : 1.000000 	cubeVCNT[13].vertex[2] : -1.000000 	cubeVCNT[13].color[0] : 0.000000 	cubeVCNT[13].color[1] : 1.000000 	cubeVCNT[13].color[2] : 0.000000 	cubeVCNT[13].normal[0] : -1.000000 	cubeVCNT[13].normal[1] : 0.000000 	cubeVCNT[13].normal[2] : 0.000000 	cubeVCNT[13].texture[0] : 0.000000 
+cubeVCNT[13].texture[1] : 0.000000 
+cubeVCNT[14].vertex[0] : -1.000000 	cubeVCNT[14].vertex[1] : -1.000000 	cubeVCNT[14].vertex[2] : -1.000000 	cubeVCNT[14].color[0] : 0.000000 	cubeVCNT[14].color[1] : 1.000000 	cubeVCNT[14].color[2] : 0.000000 	cubeVCNT[14].normal[0] : -1.000000 	cubeVCNT[14].normal[1] : 0.000000 	cubeVCNT[14].normal[2] : 0.000000 	cubeVCNT[14].texture[0] : 0.000000 
+cubeVCNT[14].texture[1] : 1.000000 
+cubeVCNT[15].vertex[0] : -1.000000 	cubeVCNT[15].vertex[1] : -1.000000 	cubeVCNT[15].vertex[2] : 1.000000 	cubeVCNT[15].color[0] : 0.000000 	cubeVCNT[15].color[1] : 1.000000 	cubeVCNT[15].color[2] : 0.000000 	cubeVCNT[15].normal[0] : -1.000000 	cubeVCNT[15].normal[1] : 0.000000 	cubeVCNT[15].normal[2] : 0.000000 	cubeVCNT[15].texture[0] : 1.000000 
+cubeVCNT[15].texture[1] : 1.000000 
+cubeVCNT[16].vertex[0] : 1.000000 	cubeVCNT[16].vertex[1] : 1.000000 	cubeVCNT[16].vertex[2] : -1.000000 	cubeVCNT[16].color[0] : 0.000000 	cubeVCNT[16].color[1] : 1.000000 	cubeVCNT[16].color[2] : 1.000000 	cubeVCNT[16].normal[0] : 0.000000 	cubeVCNT[16].normal[1] : 1.000000 	cubeVCNT[16].normal[2] : 0.000000 	cubeVCNT[16].texture[0] : 1.000000 
+cubeVCNT[16].texture[1] : 0.000000 
+cubeVCNT[17].vertex[0] : -1.000000 	cubeVCNT[17].vertex[1] : 1.000000 	cubeVCNT[17].vertex[2] : -1.000000 	cubeVCNT[17].color[0] : 0.000000 	cubeVCNT[17].color[1] : 1.000000 	cubeVCNT[17].color[2] : 1.000000 	cubeVCNT[17].normal[0] : 0.000000 	cubeVCNT[17].normal[1] : 1.000000 	cubeVCNT[17].normal[2] : 0.000000 	cubeVCNT[17].texture[0] : 0.000000 
+cubeVCNT[17].texture[1] : 0.000000 
+cubeVCNT[18].vertex[0] : -1.000000 	cubeVCNT[18].vertex[1] : 1.000000 	cubeVCNT[18].vertex[2] : 1.000000 	cubeVCNT[18].color[0] : 0.000000 	cubeVCNT[18].color[1] : 1.000000 	cubeVCNT[18].color[2] : 1.000000 	cubeVCNT[18].normal[0] : 0.000000 	cubeVCNT[18].normal[1] : 1.000000 	cubeVCNT[18].normal[2] : 0.000000 	cubeVCNT[18].texture[0] : 0.000000 
+cubeVCNT[18].texture[1] : 1.000000 
+cubeVCNT[19].vertex[0] : 1.000000 	cubeVCNT[19].vertex[1] : 1.000000 	cubeVCNT[19].vertex[2] : 1.000000 	cubeVCNT[19].color[0] : 0.000000 	cubeVCNT[19].color[1] : 1.000000 	cubeVCNT[19].color[2] : 1.000000 	cubeVCNT[19].normal[0] : 0.000000 	cubeVCNT[19].normal[1] : 1.000000 	cubeVCNT[19].normal[2] : 0.000000 	cubeVCNT[19].texture[0] : 1.000000 
+cubeVCNT[19].texture[1] : 1.000000 
+cubeVCNT[20].vertex[0] : 1.000000 	cubeVCNT[20].vertex[1] : -1.000000 	cubeVCNT[20].vertex[2] : 1.000000 	cubeVCNT[20].color[0] : 0.000000 	cubeVCNT[20].color[1] : 0.000000 	cubeVCNT[20].color[2] : 1.000000 	cubeVCNT[20].normal[0] : 0.000000 	cubeVCNT[20].normal[1] : -1.000000 	cubeVCNT[20].normal[2] : 0.000000 	cubeVCNT[20].texture[0] : 1.000000 
+cubeVCNT[20].texture[1] : 0.000000 
+cubeVCNT[21].vertex[0] : -1.000000 	cubeVCNT[21].vertex[1] : -1.000000 	cubeVCNT[21].vertex[2] : 1.000000 	cubeVCNT[21].color[0] : 0.000000 	cubeVCNT[21].color[1] : 0.000000 	cubeVCNT[21].color[2] : 1.000000 	cubeVCNT[21].normal[0] : 0.000000 	cubeVCNT[21].normal[1] : -1.000000 	cubeVCNT[21].normal[2] : 0.000000 	cubeVCNT[21].texture[0] : 0.000000 
+cubeVCNT[21].texture[1] : 0.000000 
+cubeVCNT[22].vertex[0] : -1.000000 	cubeVCNT[22].vertex[1] : -1.000000 	cubeVCNT[22].vertex[2] : -1.000000 	cubeVCNT[22].color[0] : 0.000000 	cubeVCNT[22].color[1] : 0.000000 	cubeVCNT[22].color[2] : 1.000000 	cubeVCNT[22].normal[0] : 0.000000 	cubeVCNT[22].normal[1] : -1.000000 	cubeVCNT[22].normal[2] : 0.000000 	cubeVCNT[22].texture[0] : 0.000000 
+cubeVCNT[22].texture[1] : 1.000000 
+cubeVCNT[23].vertex[0] : 1.000000 	cubeVCNT[23].vertex[1] : -1.000000 	cubeVCNT[23].vertex[2] : -1.000000 	cubeVCNT[23].color[0] : 0.000000 	cubeVCNT[23].color[1] : 0.000000 	cubeVCNT[23].color[2] : 1.000000 	cubeVCNT[23].normal[0] : 0.000000 	cubeVCNT[23].normal[1] : -1.000000 	cubeVCNT[23].normal[2] : 0.000000 	cubeVCNT[23].texture[0] : 1.000000 
+cubeVCNT[23].texture[1] : 1.000000 
+Program is Terminated succesfully
