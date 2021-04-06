@@ -1,0 +1,2 @@
+g++ -o perVertexLighting perVertexLighting.cpp -lGL -lGLEW -lX11 -L . -lSphere
+

@@ -1,0 +1,4 @@
+Log file is Created successfully
+4.5.0 NVIDIA 384.111
+4.50 NVIDIA
+Log File is successfully Closed.
